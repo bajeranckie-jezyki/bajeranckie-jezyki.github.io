@@ -1,0 +1,207 @@
+@charset "utf-8";
+
+
+
+
+
+
+.iscie{
+	position: relative;
+	z-index: 1;
+	background-image: url("azbest.gif");
+	background-color:#C95B0C;
+}
+
+.okienko{
+	position: relative;
+	z-index: 2;
+	margin-top:75px;
+	margin-bottom:75px;
+	margin: auto;
+	border: solid 5px black;
+	width: 1750px;
+	height: 2000px;
+	background-color:#98BF64;
+}
+
+.okienko2{
+	position: relative;
+	z-index: 2;
+	margin-top:75px;
+	margin-bottom:75px;
+	margin: auto;
+	border: solid 5px black;
+	width: 1750px;
+	height: 2820px;
+	background-color:#98BF64;
+}
+
+.opcje{
+	text-align:left;
+	position: relative;
+	z-index: 3;
+border:solid 4px blue;
+width: 230px;
+background-color:#ADDFFF;
+font-family: Verdana ;
+font-size: 20px ;
+color: black ;
+margin-left: 100px ;
+}
+
+a {
+   text-decoration: none;
+   color: black;
+}
+
+a:hover {
+   text-decoration: underline;
+   color: green;
+}
+.div1{
+	text-align:center;
+	float: right;
+  padding: 15px;
+}
+
+.stopka{
+	position: relative;
+	z-index: 3;
+	font-family: Verdana ;
+	padding: 10px 50px;
+font-size: 18px ;
+	color:white;
+	margin: auto ;
+	border: solid 5px black;
+	width: 1600px;
+	height: 160px;
+	background-color:#2C3E4C;
+}
+.tekstjez2{
+	text-align:center;
+	position: relative;
+	z-index: 3;
+font-family: Verdana ;
+font-size: 30px ;
+color: black ;
+}
+
+
+.tekstjez{
+	text-align:left;
+	position: relative;
+	z-index: 3;
+font-family: Verdana ;
+font-size: 20px ;
+color: black ;
+margin-left: 40px ;
+}
+.nagowek{
+	text-decoration:bold;
+	text-align:left;
+	position: relative;
+	z-index: 3;
+font-family: Verdana;
+font-size: 20px ;
+color: black ;
+margin-left: 40px ;
+}
+
+.ciekawostka{
+	text-align:left;
+	position: relative;
+	z-index: 3;
+font-family: Verdana;
+font-size: 16px ;
+color: black ;
+margin-left: 35px ;
+}
+
+.oknotekst{
+	margin:auto;
+	position: relative;
+	z-index: 3;
+	border: solid 3px black;
+	width: 1440px;
+	height: 1200px;
+	background-color:#FABA5F;
+}
+
+.oknotekst2{
+	margin:auto;
+	position: relative;
+	z-index: 3;
+	border: solid 3px black;
+	width: 1440px;
+	height: 120px;
+	background-color:#FABA5F;
+}
+.oknotekst3{
+	margin-left: 410px;
+	position: relative;
+	z-index: 3;
+	border: solid 3px black;
+	width: 350px;
+	height: 870px;
+	background-color:#FABA5F;
+	font-family: Verdana;
+font-size: 20px ;
+}
+.oknotekst4{
+	float: right;
+	position: relative;
+	z-index: 3;
+	border: solid 3px black;
+	width: 450px;
+	height: 870px;
+	background-color:#FABA5F;
+	font-family: Verdana;
+font-size: 20px ;
+margin-right: 400px;
+}
+.oknotekst5{
+	position: relative;
+	z-index: 3;
+	border: solid 3px black;
+	width: 350px;
+	height: 550px;
+	background-color:#FABA5F;
+	font-family: Verdana;
+font-size: 20px ;
+margin-left: 411px;
+}
+
+.oknotekst6{
+	float: right;
+	position: relative;
+	z-index: 3;
+	border: solid 3px black;
+	width: 450px;
+	height: 460px;
+	background-color:#FABA5F;
+	font-family: Verdana;
+font-size: 20px ;
+margin-right: 400px;
+  
+}
+
+.arbuz{
+	float: right;
+	margin-right:25px;
+}
+
+.garbuz{
+	margin-left:25px;
+	
+}
+
+.yt2{
+	margin-top:;
+	margin-bottom:;
+	margin: auto;
+	border: solid 5px black;
+	width:1750 px;
+	height:1000 px;
+	background-color:#FABA5F;
+	text-align:center;
+}
